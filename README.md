@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on machine learning, deep learning and gen ai projects.<br>I am a second year student at Indira Gandhi Delhi Technical University For Women currently looking for internship <br>I am currently learning Machine learning and Generative Ai.<br>
+I am currently working on machine learning, deep learning and gen ai projects.<br>I am a second year student at Indira Gandhi Delhi Technical University For Women. <br>I am currently learning Machine learning and Generative Ai.<br>
 
 
 ## 🌐 Socials:
